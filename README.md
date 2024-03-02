@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img src="https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8" width="480" height="288"/>
-</div>
-
 ## About Me
 I'm Minudaka Liyanage, a AI and Data science enthusiast.
 
