@@ -15,4 +15,4 @@ I'm Minudaka Liyanage, a AI and Data science enthusiast.
 </div>
 
 ## Get in Touch
-- LinkedIn: [minudakaliyanage](linkedin.com/in/minudakaliyanage)
+- LinkedIn: [minudakaliyanage]([linkedin.com/in/minudakaliyanage](https://www.linkedin.com/in/minudakaliyanage/)https://www.linkedin.com/in/minudakaliyanage/)
