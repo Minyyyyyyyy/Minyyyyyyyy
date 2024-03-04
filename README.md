@@ -1,6 +1,6 @@
 
 ## About Me
-I'm Minudaka Liyanage, a AI and Data science enthusiast.
+I'm Minudaka Liyanage, an AI and Data science enthusiast.
 
 ## Skills and Technologies
 <div>
